@@ -3,14 +3,16 @@
 
 # Instructions
  1. To run the frontend - First, go to the frontend directory and install the node modules using the following code.
+```
 npm install
+```
 
-2. Then run the frontend using the following code.
+3. Then run the frontend using the following code.
 npm run dev
 
-3. To run the backend - Go to the backend directory and install the node modules using the following code.
+4. To run the backend - Go to the backend directory and install the node modules using the following code.
 npm install
-4. Then run the backend using the following code.
+5. Then run the backend using the following code.
 npm start
 
 # Technologies Used
