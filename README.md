@@ -2,25 +2,20 @@
  Skill Bridge Hub is an advanced task bidding platform designed to address the gap for service professionals outside the software industry. Targeting urban areas, this platform connects diverse professionals with job opportunities, offering an inclusive and efficient service marketplace.
 
 # Instructions
- 1. To run the frontend:
+ 1. To run the frontend - First, go to the frontend directory and install the node modules using the following code.
+npm install
 
-    Open the terminal and go to the directory frontend.
-    
-    Then install node modules by using code "npm install".
-    
-    After installation run the code using "npm run dev".
-    
-3. To run the backend:
+2. Then run the frontend using the following code.
+npm run dev
 
-   Open the terminal and go to the directory backend.
-   
-   Then install node modules by using code "npm install".
-   
-   After installation run the code using "npm start".
+3. To run the backend - Go to the backend directory and install the node modules using the following code.
+npm install
+4. Then run the backend using the following code.
+npm start
 
 # Technologies Used
 - Frontend: React.js
-- Backend: Express.js
+- Backend: Node.js
 - Database: MongoDB
 # Key Features
 1. Service Categories:
