@@ -1,5 +1,6 @@
 # Skill Bridge Hub_Project02
  Skill Bridge Hub is an advanced task bidding platform designed to address the gap for service professionals outside the software industry. Targeting urban areas, this platform connects diverse professionals with job opportunities, offering an inclusive and efficient service marketplace.
+
 #Instructions
  1. To run the frontend:
  npm run dev
