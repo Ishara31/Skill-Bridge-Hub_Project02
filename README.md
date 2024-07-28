@@ -5,6 +5,7 @@
  npm run dev
 2. To run the backend:
    npm start
+
 #Technologies Used
 - Frontend: React.js
 - Backend: Express.js
