@@ -7,13 +7,19 @@
 npm install
 ```
 
-3. Then run the frontend using the following code.
+2. Then run the frontend using the following code.
+```
 npm run dev
+```
 
-4. To run the backend - Go to the backend directory and install the node modules using the following code.
+3. To run the backend - Go to the backend directory and install the node modules using the following code.
+```
 npm install
-5. Then run the backend using the following code.
+```
+4. Then run the backend using the following code.
+```
 npm start
+```
 
 # Technologies Used
 - Frontend: React.js
