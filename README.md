@@ -4,11 +4,16 @@
 # Instructions
  1. To run the frontend:
     Open the terminal and go to the directory frontend.
+    
     Then install node modules by using code "npm install".
+    
     After installation run the code using "npm run dev".
+    
 2. To run the backend:
     Open the terminal and go to the directory backend.
+   
     Then install node modules by using code "npm install".
+   
     After installation run the code using "npm start".
 
 # Technologies Used
