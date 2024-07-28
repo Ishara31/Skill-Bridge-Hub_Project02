@@ -1,13 +1,17 @@
 # Skill Bridge Hub_Project02
  Skill Bridge Hub is an advanced task bidding platform designed to address the gap for service professionals outside the software industry. Targeting urban areas, this platform connects diverse professionals with job opportunities, offering an inclusive and efficient service marketplace.
 
-#Instructions
+# Instructions
  1. To run the frontend:
- npm run dev
+    Open the terminal and go to the directory frontend.
+    Then install node modules by using code "npm install".
+    After installation run the code using "npm run dev".
 2. To run the backend:
-   npm start
+    Open the terminal and go to the directory backend.
+    Then install node modules by using code "npm install".
+    After installation run the code using "npm start".
 
-#Technologies Used
+# Technologies Used
 - Frontend: React.js
 - Backend: Express.js
 - Database: MongoDB
@@ -20,7 +24,8 @@
 3. Professions Verification Process: Verifies professionals’ identities through document uploads and admin review.
 4. Open and Closed Bidding: Allows employers to view all bids or keep bid details confidential.
 5. Task Management: Track task progress, submit work, and mark tasks as completed.
-#Functional Requirements
+
+# Functional Requirements
 1. User Account Management: Create and manage user profiles.
 2. Task Posting: Employers can post jobs with details.
 3. Task Bidding: Professionals can bid on posted tasks.
@@ -30,7 +35,8 @@
 7. Administrative Features:Tools for admins to manage the platform.
 8. Filtering: Search and filter tasks and professionals.
 9. Feedback and Rating System: Rate tasks and professionals based on task deadline, quality of the work, Professionalism of the professional and communication of the professional.
-#New Functions
+
+# New Functions
 1. Qualified Bidder Identification: Selects professionals based on skills and their location, notifying employers of top candidates.
 2. Professions Verification Process: Verifies identity through NIC photo submissions and displays a verification badge.
 3. Open and Closed Bidding: Allows visibility of bids or keeps bid details confidential during the bidding process.
